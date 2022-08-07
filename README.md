@@ -2,6 +2,8 @@
 
 ### Learning math is fan when you can play
 ### Chose difficulty according to your level
+### Move your fish (pink or green) and eat any fish that has vlaue smaller or equal to yours
+### You can watch your games in scoreboard
 
 ![image](https://user-images.githubusercontent.com/85076725/183270545-fc442215-c070-4bf3-9421-4853635cb92a.png)
 
