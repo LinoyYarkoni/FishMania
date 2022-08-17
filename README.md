@@ -1,7 +1,7 @@
 # FishMania
 
-### Learning math is fan when you can play
-### Chose difficulty according to your level
+### Learning math is fun when you can play
+### Choose difficulty according to your level
 ### Move your fish (pink or green) and eat any fish that has vlaue smaller or equal to yours
 ### You can watch your games in scoreboard
 
