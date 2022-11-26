@@ -9,7 +9,7 @@ The game has three difficulty levels:
 3. Hard - comparing a simple number to the product of two simple numbers.
 
 ## Login and Sign Up:
-For login enter your email and password
+### For login enter your email and password
 ![image](https://user-images.githubusercontent.com/85076725/204110539-a3b27ef4-a7cc-48a8-90f1-c29b35c22500.png)
 
 To sign up for the application, enter username, email, age and pssword
