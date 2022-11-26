@@ -9,11 +9,11 @@ The game has three difficulty levels:
 3. Hard - comparing a simple number to the product of two simple numbers.
 
 ## Login and Sign Up:
-![image](https://user-images.githubusercontent.com/85076725/204110539-a3b27ef4-a7cc-48a8-90f1-c29b35c22500.png)
 For login enter your email and password
+![image](https://user-images.githubusercontent.com/85076725/204110539-a3b27ef4-a7cc-48a8-90f1-c29b35c22500.png)
 
-![image](https://user-images.githubusercontent.com/85076725/204110483-024fc8d6-d2e5-4c55-ba25-dea2ba9e0820.png)
 To sign up for the application, enter username, email, age and pssword
+![image](https://user-images.githubusercontent.com/85076725/204110483-024fc8d6-d2e5-4c55-ba25-dea2ba9e0820.png)
 
 Authenticates by Firebase Authentication
 
